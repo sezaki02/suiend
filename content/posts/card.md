@@ -1,6 +1,6 @@
 +++
 date = '2025-03-19T17:34:16+09:00'
-draft = true
+draft = false
 title = 'you can take your'
 +++
 

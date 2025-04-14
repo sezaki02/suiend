@@ -1,6 +1,6 @@
 +++
 date = '2025-03-10T17:31:17+09:00'
-draft = true
+draft = false
 title = 'MEMOSからTHINOにかえた'
 +++
 
