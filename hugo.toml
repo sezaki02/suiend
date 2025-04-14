@@ -15,14 +15,11 @@ taxonomies = { tag = "tags", category = "categories" }
 
 
   [[menu.main]]
-  name = "Fedibird"
+  name = "Bluesky"
   url = "https://bsky.app/profile/havexit.bsky.social"
   weight = 30
 
-  [[menu.main]]
-  name = "Wavebox"
-  url = "https://bsky.app/profile/havexit.bsky.social"
-  weight = 30
+  
 
   [markup]
     [markup.goldmark]
