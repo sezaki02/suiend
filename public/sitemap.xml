@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://suiend.netlify.app/</loc>
+    <loc>https://suiend.netlify.app/posts/</loc>
     <lastmod>2025-04-14T09:42:57+09:00</lastmod>
   </url><url>
-    <loc>https://suiend.netlify.app/posts/</loc>
+    <loc>https://suiend.netlify.app/</loc>
     <lastmod>2025-04-14T09:42:57+09:00</lastmod>
   </url><url>
     <loc>https://suiend.netlify.app/posts/galle/</loc>

@@ -1,6 +1,6 @@
 baseURL = 'https://suiend.netlify.app/'
 languageCode = 'en-us'
-title = 'F451'
+title = 'SUIEND'
 theme = "PaperMod"
 
 
@@ -19,7 +19,7 @@ taxonomies = { tag = "tags", category = "categories" }
   url = "https://bsky.app/profile/havexit.bsky.social"
   weight = 30
 
-  
+
 
   [markup]
     [markup.goldmark]
